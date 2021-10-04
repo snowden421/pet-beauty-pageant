@@ -24,7 +24,7 @@ Express.js was used for the server and MySQL for the database along with Sequeli
 
 ## Links
 
-- **[GitHub Repo](https://github.com/mjos7/pet-beauty-pageant)**
+- **[GitHub Repo](https://github.com/snowden421/pet-beauty-pageant)**
 - **[Deployed Live App](https://morning-woodland-90591.herokuapp.com/)**
 
 ## Installation

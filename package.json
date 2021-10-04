@@ -12,15 +12,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mjos7/pet-beauty-pageant.git"
+    "url": "git+https://github.com/snowden421/pet-beauty-pageant.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mjos7/pet-beauty-pageant/issues"
+    "url": "https://github.com/snowden421/pet-beauty-pageant/issues"
   },
-  "homepage": "https://github.com/mjos7/pet-beauty-pageant#readme",
+  "homepage": "https://github.com/snowden421/pet-beauty-pageant#readme",
   "dependencies": {
     "bcrypt": "^5.0.1",
     "cloudinary": "^1.27.0",
